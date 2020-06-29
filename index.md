@@ -3,26 +3,26 @@ layout: index
 published: true
 ---
 
-## Create your own online course (and keep it)
+## Free, Digital, and Adaptable: Finding and Using OER in Your Course
 
-Course in a Box is an open source, online course creation tool. It is designed to minimize the amount of time you need to spend fumbling around with technology, allowing you to focus on bringing together the resources, activities, and lessons that you want to share with the world.
+Open Educational Resources (OER) are free teaching and learning materials that allow instructors to modify, adapt, and reuse content for academic purposes. 
 
-Course materials are written in [Markdown](https://www.markdownguide.org/) and hosted on [Github](https://www.github.com), a popular development platform that allows for collaborative drafting, version control, and easy dissemination of your course.
+While traditional copyright and licensing practices for commercial textbooks create barriers to student access, OER guarantees that students can access high-quality, customized course materials on the first day of class. In this course we will share about the many benefits of using OER, highlight resources for finding and using OER across disciplines, and explore ideas for engaging students in the knowledge creation process through open pedagogy.
 
-Using Course in a Box and hosting a course on Github are **completely free**, and we’ve outlined the process for putting together a course [on our blog](https://info.p2pu.org/2019/05/16/creating-an-open-course-with-p2pu/). If you’d like to hire us to help you set things up and/or co-design the course with you, [we can do that](https://www.p2pu.org/en/work-with-us/). 
+Upon completion of this course, you will be able to:
+-Define Open Educational Resources, and see OER as an alternative to traditional textbooks for courses.
+-Understand options and support available for using, developing, and teaching with OER.
+-Identify resources for finding and using OER within your discipline.
+-Connect with librarians who can partner with you to explore alternative course materials using OER and library materials.
+
+To learn more about OER support at Northwestern visit:
+
+- [Affordable Instructional Resources](www.air.northwestern.edu)
+- [Adopt an Open Textbook](https://libguides.northwestern.edu/opentextbooks)
 
 
-Here are some recent courses that have been built with Course in a Box:
+## Contact us 
 
-- [Learning to (re)use open educational resources](http://www.exploerercourse.org/) by Creative Commons & Open University
-- [Create and sustain effective makerspaces in your community](http://p2pu.github.io/makingandlearning/) by Pittsburgh Children’s Museum
-- [Learning about learning circles](https://p2pu.github.io/facilitate-course/) by P2PU
-
-
-## Reach new audiences
-
-Online courses take a big step forwards in the sharing of knowledge around the world. However, your course is only ever as good as the people it reaches. To help reach new audiences with online courses, P2PU developed learning circles: groups for people who take online courses together, in local libraries or community spaces.
-
-Once you create a course, you can add it to P2PU’s learning circle [course page](http://p2pu.org/en/courses/), a growing database of online courses that people are using to facilitate learning circles around the world. You can also check out our [facilitator page](https://www.p2pu.org/en/facilitate/) to learn how to run your own learning circle.
+If you'd like individualized assistance in finding or developing OER, we are here to help. Contact <lauren.mckeen@northwestern.edu> to get started.
 
 
