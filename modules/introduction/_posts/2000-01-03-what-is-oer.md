@@ -10,7 +10,7 @@ Open Educational Resources (OER) are teaching, learning and research materials i
 
 The three primary characteristics that make OER different from other educational resources are that it is **free, available online,** and **openly licensed.**
 
-![three OER characteristics](https://github.com/lhmckeen/course-in-a-box/img/oer-characteristics.jpg)
+![three OER characteristics](https://lhmckeen.github.io/course-in-a-box/img/oer-characterisitics.jpg)
 
 ## Free
 
